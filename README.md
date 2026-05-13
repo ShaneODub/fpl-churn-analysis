@@ -1,3 +1,7 @@
+# FPL Churn Analysis
+
+A portfolio analytics project using the Fantasy Premier League API to analyse manager retention, inactivity and churn signals.
+
 Planned stack:
 
 - Python for FPL API extraction
